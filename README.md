@@ -26,7 +26,7 @@ $ npm install
 # watch mode
 $ npm run start:dev
 
-#thats all you can send the request to the api
+#thats all, now you can send the request to the api.
 ```
 
 ## Resources
